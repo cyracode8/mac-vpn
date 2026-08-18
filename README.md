@@ -48,6 +48,9 @@
 
 设备兼容方面，支持 macOS、Windows、iOS、Android。
 
+> [!NOTE]
+> 极点VPN明显的特点就是适合国内环境使用，操作门槛低、性价比高👏，详细情况推荐查看 [极点VPN免费试用评测](https://github.com/novacross5/review-vpn)
+
 ### 2. ExpressVPN：综合表现比较完整
 
 <img width="800" height="374" alt="ExpressVPN-1" src="https://github.com/user-attachments/assets/80c423e3-fbce-49fd-8039-db7821b26a58" /></br>

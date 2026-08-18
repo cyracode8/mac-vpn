@@ -1,3 +1,5 @@
+# 2026 Mac VPN推荐：适合苹果电脑使用的稳定VPN工具
+
 <img width="1000" height="562" alt="Mac VPN推荐" src="https://github.com/user-attachments/assets/f512a491-a09f-42bb-9d9e-4db357a8dcbd" /></br>
 
 现在很多事情手机都能处理，但真到了办公、查资料、传文件或者长时间浏览网页，MacBook、iMac 这类电脑还是更顺手。对需要访问国外网站的用户来说，Mac VPN 也就成了比较常见的工具。
